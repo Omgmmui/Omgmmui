@@ -167,8 +167,8 @@ I'm a passionate **DevOps Engineer** with expertise in building scalable, reliab
 
 I'm always interested in collaborating on exciting DevOps projects, sharing knowledge, and discussing infrastructure challenges.
 
-- 📧 **Email:** 
-- 💼 **LinkedIn:** 
+- 📧 **Email:** mohammedmujahidulislam1998@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/mohammedmujahidulislam
 - 🐙 **GitHub:** [@Omgmmui](https://github.com/Omgmmui)
 
 ---
